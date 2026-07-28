@@ -38,15 +38,13 @@ header {
     text-transform: uppercase;
 }
 
-.mark {
-    display: grid;
-    place-items: center;
+.brand-icon {
+    display: block;
     width: 34px;
     height: 34px;
-    border: 1px solid rgba(115, 255, 62, 0.45);
     border-radius: 9px;
-    background: rgba(115, 255, 62, 0.08);
-    box-shadow: 0 0 20px rgba(115, 255, 62, 0.12);
+    object-fit: cover;
+    box-shadow: 0 0 18px rgba(115, 255, 62, 0.16);
 }
 
 h1 {
