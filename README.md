@@ -16,3 +16,11 @@ The pages will be available at:
 - `https://raifagovic.github.io/repclimb-legal/support/`
 
 Use the privacy URL in App Store Connect under `App Privacy > Privacy Policy`.
+Use the support URL in the app version's `Support URL` field.
+
+The in-app Terms of Use link uses Apple's Standard EULA:
+
+- `https://www.apple.com/legal/internet-services/itunes/dev/stdeula/`
+
+Before release, verify that the public pages match the files in this folder and
+complete the account-specific App Store Connect and RevenueCat configuration.
